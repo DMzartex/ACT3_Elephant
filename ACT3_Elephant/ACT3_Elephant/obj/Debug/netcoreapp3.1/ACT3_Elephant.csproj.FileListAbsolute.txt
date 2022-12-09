@@ -1,0 +1,14 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.runtimeconfig.dev.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\bin\Debug\netcoreapp3.1\ACT3_Elephant.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\ACT3_Elephant\ACT3_Elephant\obj\Debug\netcoreapp3.1\ACT3_Elephant.genruntimeconfig.cache
